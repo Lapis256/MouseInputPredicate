@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "io.github.laps256.mouse_input.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MixinEntitySubPredicateTypes"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
